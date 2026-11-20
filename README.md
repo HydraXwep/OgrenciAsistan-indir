@@ -9,7 +9,7 @@ Güncel sürüm: **1.0.9**
 | --- | --- | --- |
 | Windows 10/11 | [OgrenciAsistan-Kurulum-1.0.9.exe](https://wwpyhlwxasjsnrjjvbdf.supabase.co/storage/v1/object/public/releases/OgrenciAsistan-Kurulum-1.0.9.exe) | `9e128e36692188ca7a7685ebd24d41e9d49912f381fbb73c26a3ad3e34573cf1` |
 | Android | [OgrenciAsistan-android-1.0.9.apk](https://wwpyhlwxasjsnrjjvbdf.supabase.co/storage/v1/object/public/releases/OgrenciAsistan-android-1.0.9.apk) | `2929d05ffffb341839e12bfb40ca1b790fd7b75f626fce0d98b3fca947753c69` |
-| macOS 12+ (deneme) | [OgrenciAsistan-mac-1.0.9.zip](https://github.com/HydraXwep/OgrenciAsistan-indir/releases/latest/download/OgrenciAsistan-mac-1.0.9.zip) | `11c987ab7c3756b40dc91c1876802863cca360fba66abeab226dbc6b2ef791d1` |
+| macOS 12+ (deneme) | [OgrenciAsistan-mac-1.0.9.zip](https://github.com/HydraXwep/OgrenciAsistan-indir/releases/latest/download/OgrenciAsistan-mac-1.0.9.zip) | `cdc5fd2349e9314840bdc68ae2b3202b6739bf9870d6afaee4172f9834bf4b2a` |
 
 ## Kurulum
 
@@ -27,7 +27,9 @@ Güncel sürüm: **1.0.9**
 1. `.zip` dosyasını indir, çift tıkla; çıkan **ogrenci_asistan** uygulamasını **Uygulamalar** klasörüne sürükle.
 2. İlk açılışta "açılamıyor / doğrulanamadı" uyarısı çıkar (uygulama Apple tarafından imzalı değil). **Bitti** de, sonra
    **Sistem Ayarları → Gizlilik ve Güvenlik**'e git, en altta **Yine de Aç**'a tıkla ve Mac şifrenle onayla.
-3. Bilinen eksik: Mac'te **"Beni hatırla" çalışmaz**, her açılışta yeniden giriş istenir. Güncellemeler bu sayfadan elle indirilir.
+3. "Öğrenci Asistanı, Anahtar Zinciri'ndeki bilgilerinizi kullanmak istiyor" diye sorarsa Mac şifreni yaz ve
+   **Her Zaman İzin Ver** de ("Beni hatırla" bunun için gerekli).
+4. Mac'te güncellemeler uygulamanın içinden gelmez; yeni sürümü bu sayfadan indirip eskisinin üstüne koy.
 
 ## Hesap
 
