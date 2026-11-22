@@ -3,11 +3,11 @@
 Okul hayatını tek uygulamada toplayan, yapay zekâ destekli öğrenci asistanı.
 **Bağımsız bir öğrenci projesidir, resmî üniversite uygulaması değildir.** Bu sayfa test sürümünü denemek isteyenler içindir.
 
-Güncel sürüm: Mac **1.0.10**, Windows ve Android **1.0.9** (1.0.10 yakında; uygulama içinden kendiliğinden gelecek).
+Güncel sürüm: Windows ve Mac **1.0.10**, Android **1.0.9** (1.0.10 yakında; uygulama içinden kendiliğinden gelecek).
 
 | Platform | İndir | SHA-256 |
 | --- | --- | --- |
-| Windows 10/11 | [OgrenciAsistan-Kurulum-1.0.9.exe](https://wwpyhlwxasjsnrjjvbdf.supabase.co/storage/v1/object/public/releases/OgrenciAsistan-Kurulum-1.0.9.exe) | `9e128e36692188ca7a7685ebd24d41e9d49912f381fbb73c26a3ad3e34573cf1` |
+| Windows 10/11 | [OgrenciAsistan-Kurulum-1.0.10.exe](https://wwpyhlwxasjsnrjjvbdf.supabase.co/storage/v1/object/public/releases/OgrenciAsistan-Kurulum-1.0.10.exe) | `732e0392c3b74c746c8b5db54e6e8d01704dccfce66b3452474f90a189b4a2c3` |
 | Android | [OgrenciAsistan-android-1.0.9.apk](https://wwpyhlwxasjsnrjjvbdf.supabase.co/storage/v1/object/public/releases/OgrenciAsistan-android-1.0.9.apk) | `2929d05ffffb341839e12bfb40ca1b790fd7b75f626fce0d98b3fca947753c69` |
 | macOS 12+ (deneme) | [OgrenciAsistan-mac-1.0.10.zip](https://github.com/HydraXwep/OgrenciAsistan-indir/releases/download/v1.0.10/OgrenciAsistan-mac-1.0.10.zip) | `5dfaee0d78441b3770f54f3de11f752393d9d67f9b179acd2e7e48db68c42041` |
 
